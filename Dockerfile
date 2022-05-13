@@ -23,7 +23,7 @@ ENV	VNC_PASS="samplepass" \
 	LANG=en_US.UTF-8 \
 	LANGUAGE=en_US.UTF-8 \
 	LC_ALL=C.UTF-8 \
-	TZ="Asia/Kolkata"
+	TZ="Europe/Kiev"
 
 COPY rootfs/ /
 
